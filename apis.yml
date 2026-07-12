@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://data.police.uk/docs/
 common:
+  - type: DomainSecurity
+    url: security/uk-police-domain-security.yml
   - type: Website
     url: https://data.police.uk/docs/
   - type: PublicAPIsListing
