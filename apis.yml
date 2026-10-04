@@ -39,7 +39,6 @@ apis:
   - name: UK Police
     description: "UK Police data"
     humanURL: https://data.police.uk/docs/
-    baseURL: https://data.police.uk/docs/
     tags:
       - Security
     properties:
